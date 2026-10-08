@@ -1,0 +1,4 @@
+# pack-refs with: peeled fully-peeled sorted 
+acbe1b16a930b68becf213cea891e1a687492b3a refs/remotes/origin/5-implement-mace-and-nep-mips
+1577c12176c1e2a7879631886ba16907adf20ad4 refs/remotes/origin/main
+c818f38bfbd195900e2b04342a1e7ef28ce11724 refs/remotes/origin/spinel-tolerance

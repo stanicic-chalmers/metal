@@ -1,0 +1,7 @@
+local
+*.pyc
+*~
+*.lock
+runs
+jobs
+.ipynb_checkpoints

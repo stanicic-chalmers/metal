@@ -1,0 +1,119 @@
+Z,Symbol,Element,"Price USD / kg",Reference price,Unit ref. price, Reference string,Date,Source,Source abbreviation
+1,H,Hydrogen,23.64,0.06,USD per standard cubic foot (scf),0.06 USD per standard cubic foot (scf),01/03/2013,Praxair,Praxair
+2,He,Helium,40.39,7.21,USD per normal cubic meter,7.21 USD per normal cubic meter,28/01/2016,United States Geological Survey,USGS
+3,Li,Lithium,115.70,800000.00,CNY per metric ton,"800,000.00 CNY per metric ton",14/12/2016,Shanghai Metals Market,SMM
+4,Be,Beryllium,831.60,5750.00,CNY per kilogram,"5,750.00 CNY per kilogram",14/12/2016,Shanghai Metals Market,SMM
+5,B,Boron,2386.00,16500.00,CNY per kilogram,"16,500.00 CNY per kilogram",14/12/2016,Shanghai Metals Market,SMM
+6,C,Carbon,24.00,2.40,USD per 100 grams,2.40 USD per 100 grams,25/07/2014,Chemicool,Chemicool
+7,N,Nitrogen,2.77,0.09,USD per standard cubic foot (scf),0.09 USD per standard cubic foot (scf),01/03/2013,Praxair,Praxair
+8,O,Oxygen,0.64,0.02,USD per standard cubic foot (scf),0.02 USD per standard cubic foot (scf),01/03/2013,Praxair,Praxair
+9,F,Fluorine,1900.00,190.00,USD per 100 grams,190.00 USD per 100 grams,16/10/2012,Chemicool,Chemicool
+10,Ne,Neon,629.90,504.00,EUR per normal cubic meter,504.00 EUR per normal cubic meter,01/09/2016,Linde AG,Linde AG
+11,Na,Sodium,3.04,21000.00,CNY per metric ton,"21,000.00 CNY per metric ton",14/12/2016,Shanghai Metals Market,SMM
+12,Mg,Magnesium,2.26,2.26,USD per kilogram,2.26 USD per kilogram,31/05/2017,InfoMine,InfoMine
+13,Al,Aluminium,1.91,1911.00,USD per metric ton,"1,911.00 USD per metric ton",13/07/2017,London Metal Exchange,LME
+14,Si,Silicon,1.91,1800.61,EUR per metric ton,"1,800.61 EUR per metric ton",01/11/2016,Deutsche Rohstoffagentur,DERA
+15,P,Phosphorus,300.00,30.00,USD per 100 grams,30.00 USD per 100 grams,17/10/2012,Chemicool,Chemicool
+16,S,Sulfur,0.10,100.00,USD per metric ton,100.00 USD per metric ton,28/01/2016,United States Geological Survey,USGS
+17,Cl,Chlorine,1.50,0.15,USD per 100 grams,0.15 USD per 100 grams,16/10/2012,Chemicool,Chemicool
+18,Ar,Argon,2.56,0.12,USD per standard cubic foot (scf),0.12 USD per standard cubic foot (scf),01/03/2013,Praxair,Praxair
+19,K,Potassium,13.02,90000.00,CNY per metric ton,"90,000.00 CNY per metric ton",14/12/2016,Shanghai Metals Market,SMM
+20,Ca,Calcium,5.93,41000.00,CNY per metric ton,"41,000.00 CNY per metric ton",14/12/2016,Shanghai Metals Market,SMM
+21,Sc,Scandium,15000.00,15000.00,USD per kilogram,"15,000.00 USD per kilogram",31/12/2017,MineralPrices.com,MineralPrices
+22,Ti,Titanium,3.77,3.77,USD per kilogram,3.77 USD per kilogram,31/05/2017,InfoMine,InfoMine
+23,V,Vanadium,22.60,22.60,USD per kilogram,22.60 USD per kilogram,31/05/2017,InfoMine,InfoMine
+24,Cr,Chromium,7.64,7641.67,USD per metric ton,"7,641.67 USD per metric ton",01/11/2016,Deutsche Rohstoffagentur,DERA
+25,Mn,Manganese,2.06,2.06,USD per kilogram,2.06 USD per kilogram,31/05/2017,InfoMine,InfoMine
+26,Fe,Iron,0.08,84.00,USD per metric ton,84.00 USD per metric ton,28/01/2016,United States Geological Survey,USGS
+27,Co,Cobalt,59.50,59500.00,USD per metric ton,"59,500.00 USD per metric ton",13/07/2017,London Metal Exchange,LME
+28,Ni,Nickel,9.19,9185.00,USD per metric ton,"9,185.00 USD per metric ton",13/07/2017,London Metal Exchange,LME
+29,Cu,Copper,5.90,5902.00,USD per metric ton,"5,902.00 USD per metric ton",13/07/2017,London Metal Exchange,LME
+30,Zn,Zinc,2.83,2826.00,USD per metric ton,"2,826.00 USD per metric ton",13/07/2017,London Metal Exchange,LME
+31,Ga,Gallium,278.20,278.20,USD per kilogram,278.20 USD per kilogram,08/10/2018,Kitco Metals,Kitco Metals
+32,Ge,Germanium,1833.00,1833.30,USD per kilogram,"1,833.30 USD per kilogram",08/10/2018,Kitco Metals,Kitco Metals
+33,As,Arsenic,1.74,12000.00,CNY per metric ton,"12,000.00 CNY per metric ton",14/12/2016,Shanghai Metals Market,SMM
+34,Se,Selenium,30.37,210.00,CNY per kilogram,210.00 CNY per kilogram,14/12/2016,Shanghai Metals Market,SMM
+35,Br,Bromine,4.40,4400.00,USD per metric ton,"4,400.00 USD per metric ton",28/01/2016,United States Geological Survey,USGS
+36,Kr,Krypton,1.40,3.00,EUR per litre,3.00 EUR per litre,01/09/2016,Linde AG,Linde AG
+37,Rb,Rubidium,14720.00,1472.00,USD per 100 grams,"1,472.00 USD per 100 grams",28/01/2016,United States Geological Survey,USGS
+38,Sr,Strontium,5.40,5400.00,USD per metric ton,"5,400.00 USD per metric ton",01/11/2016,Asian Metal,Asian Metal
+39,Y,Yttrium,35.00,35.00,USD per kilogram,35.00 USD per kilogram,31/12/2017,MineralPrices.com,MineralPrices
+40,Zr,Zirconium,23.14,160.00,CNY per kilogram,160.00 CNY per kilogram,14/12/2016,Shanghai Metals Market,SMM
+41,Nb,Niobium,42.00,42000.00,USD per metric ton,"42,000.00 USD per metric ton",28/01/2016,United States Geological Survey,USGS
+42,Mo,Molybdenum,16.00,16000.00,USD per metric ton,"16,000.00 USD per metric ton",13/07/2017,London Metal Exchange,LME
+43,Tc,Technetium,price unknown
+44,Ru,Ruthenium,3054.00,95.00,USD per troy ounce,95.00 USD per troy ounce,31/10/2017,InfoMine,InfoMine
+45,Rh,Rhodium,76840.00,2390.00,USD per troy ounce,"2,390.00 USD per troy ounce",09/10/2018,Kitco Metals,Kitco Metals
+46,Pd,Palladium,34401.00,1070.00,USD per troy ounce,"1,070.00 USD per troy ounce",09/10/2018,Kitco Metals,Kitco Metals
+47,Ag,Silver,462.00,14.37,USD per troy ounce,14.37 USD per troy ounce,09/10/2018,Kitco Metals,Kitco Metals
+48,Cd,Cadmium,1.98,13700.00,CNY per metric ton,"13,700.00 CNY per metric ton",14/12/2016,Shanghai Metals Market,SMM
+49,In,Indium,341.60,341.60,USD per kilogram,341.60 USD per kilogram,08/10/2018,Kitco Metals,Kitco Metals
+50,Sn,Tin,20.00,20000.00,USD per metric ton,"20,000.00 USD per metric ton",13/07/2017,London Metal Exchange,LME
+51,Sb,Antimony,7.05,48750.00,CNY per metric ton,"48,750.00 CNY per metric ton",14/12/2016,Shanghai Metals Market,SMM
+52,Te,Tellurium,55.68,385.00,CNY per kilogram,385.00 CNY per kilogram,14/12/2016,Shanghai Metals Market,SMM
+53,I,Iodine,28.00,28.00,USD per kilogram,28.00 USD per kilogram,28/01/2016,United States Geological Survey,USGS
+54,Xe,Xenon,9.20,25.00,EUR per litre,25.00 EUR per litre,01/09/2016,Linde AG,Linde AG
+55,Cs,Caesium,73400.00,73.40,USD per gram,73.40 USD per gram,28/01/2016,United States Geological Survey,USGS
+56,Ba,Barium,550.00,55.00,USD per 100 grams,55.00 USD per 100 grams,15/10/2012,Chemicool,Chemicool
+57,La,Lanthanum,7.00,7.00,USD per kilogram,7.00 USD per kilogram,31/12/2017,MineralPrices.com,MineralPrices
+58,Ce,Cerium,7.00,7.00,USD per kilogram,7.00 USD per kilogram,31/12/2017,MineralPrices.com,MineralPrices
+59,Pr,Praseodymium,85.00,85.00,USD per kilogram,85.00 USD per kilogram,31/12/2017,MineralPrices.com,MineralPrices
+60,Nd,Neodymium,60.00,60.00,USD per kilogram,60.00 USD per kilogram,31/12/2017,MineralPrices.com,MineralPrices
+61,Pm,Promethium,price unknown
+62,Sm,Samarium,14.35,14.35,USD per kilogram,14.35 USD per kilogram,01/11/2016,Deutsche Rohstoffagentur,DERA
+63,Eu,Europium,258.00,258.00,USD per kilogram,258.00 USD per kilogram,01/11/2016,Asian Metal,Asian Metal
+64,Gd,Gadolinium,55.00,55.00,USD per kilogram,55.00 USD per kilogram,31/12/2017,MineralPrices.com,MineralPrices
+65,Tb,Terbium,550.00,550.00,USD per kilogram,550.00 USD per kilogram,31/12/2017,MineralPrices.com,MineralPrices
+66,Dy,Dysprosium,350.00,350.00,USD per kilogram,350.00 USD per kilogram,31/12/2017,MineralPrices.com,MineralPrices
+67,Ho,Holmium,1400.00,140.00,USD per 100 grams,140.00 USD per 100 grams,26/07/2016,Metallium,Metallium
+68,Er,Erbium,95.00,95.00,USD per kilogram,95.00 USD per kilogram,31/12/2017,MineralPrices.com,MineralPrices
+69,Tm,Thulium,6200.00,620.00,USD per 100 grams,620.00 USD per 100 grams,26/07/2016,Metallium,Metallium
+70,Yb,Ytterbium,1600.00,160.00,USD per 100 grams,160.00 USD per 100 grams,26/07/2016,Metallium,Metallium
+71,Lu,Lutetium,6269.00,195.00,USD per troy ounce,195.00 USD per troy ounce,26/07/2016,Metallium,Metallium
+72,Hf,Hafnium,1414.00,1414.40,USD per kilogram,"1,414.40 USD per kilogram",08/10/2018,Kitco Metals,Kitco Metals
+73,Ta,Tantalum,238.00,238.00,USD per kilogram,238.00 USD per kilogram,01/11/2016,Asian Metal,Asian Metal
+74,W,Tungsten,25.52,25.52,USD per kilogram,25.52 USD per kilogram,31/05/2017,InfoMine,InfoMine
+75,Re,Rhenium,1635.00,1635.20,USD per kilogram,"1,635.20 USD per kilogram",08/10/2018,Kitco Metals,Kitco Metals
+76,Os,Osmium,12860.00,400.00,USD per troy ounce,400.00 USD per troy ounce,01/11/2016,BASF,BASF
+77,Ir,Iridium,31186.00,970.00,USD per troy ounce,970.00 USD per troy ounce,31/10/2017,InfoMine,InfoMine
+78,Pt,Platinum,26492.00,824.00,USD per troy ounce,824.00 USD per troy ounce,09/10/2018,Kitco Metals,Kitco Metals
+79,Au,Gold,38189.00,1187.80,USD per troy ounce,"1,187.80 USD per troy ounce",09/10/2018,Kitco Metals,Kitco Metals
+80,Hg,Mercury,38.44,1325.31,USD per flask (34.473 kg),"1,325.31 USD per flask (34.473 kg)",01/11/2016,Deutsche Rohstoffagentur,DERA
+81,Tl,Thallium,7400.00,7400.00,USD per kilogram,"7,400.00 USD per kilogram",28/01/2016,United States Geological Survey,USGS
+82,Pb,Lead,2.29,2294.00,USD per metric ton,"2,294.00 USD per metric ton",13/07/2017,London Metal Exchange,LME
+83,Bi,Bismuth,10.34,71500.00,CNY per metric ton,"71,500.00 CNY per metric ton",14/12/2016,Shanghai Metals Market,SMM
+84,Po,Polonium,price unknown
+85,At,Astatine,price unknown
+86,Rn,Radon,price unknown
+87,Fr,Francium,price unknown
+88,Ra,Radium,price unknown
+89,Ac,Actinium,price unknown
+90,Th,Thorium,176.00,176.00,USD per kilogram,176.00 USD per kilogram,28/01/2016,United States Geological Survey,USGS
+91,Pa,Protactinium,price unknown
+92,U,Uranium (1),57.76,26.20,USD per pound,26.20 USD per pound,30/07/2018,UxC Ux Consulting,UxC
+93,Np,Neptunium,price unknown
+94,Pu,Plutonium,price unknown
+95,Am,Americium,price unknown
+96,Cm,Curium,price unknown
+97,Bk,Berkelium,price unknown
+98,Cf,Californium,price unknown
+99,Es,Einsteinium,price unknown
+100,Fm,Fermium,price unknown
+101,Md,Mendelevium,price unknown
+102,No,Nobelium,price unknown
+103,Lr,Lawrencium,price unknown
+104,Rf,Rutherfordium,price unknown
+105,Db,Dubnium,price unknown
+106,Sg,Seaborgium,price unknown
+107,Bh,Bohrium,price unknown
+108,Hs,Hassium,price unknown
+109,Mt,Meitnerium,price unknown
+110,Ds,Darmstadtium,price unknown
+111,Rg,Roentgenium,price unknown
+112,Cn,Copernicium,price unknown
+113,Nh,Nihonium,price unknown
+114,Fl,Flerovium,price unknown
+115,Mc,Moscovium,price unknown
+116,Lv,Livermorium,price unknown
+117,Ts,Tennessine,price unknown
+118,Og,Oganesson,price unknown

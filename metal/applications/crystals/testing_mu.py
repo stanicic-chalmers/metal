@@ -16,7 +16,7 @@ sys.path.append(repo_root)
 sys.path.append("/cfs/klemming/projects/supr/naiss2023-5-521/stanicic/gitlab/metal")
 
 # Now you can import modules using absolute imports from metal
-from /proj/berzelius-2025-374/users/x_ivast/gitlab/metal/metal/applications/crystals/tools.py import (
+from metal.applications.crystals.tools import (
     get_mu_oxygen_ref,
     get_mu_oxygen,
     get_mu_oxygen_sr_ref,
